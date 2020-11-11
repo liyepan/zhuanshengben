@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-shadow: 2px 2px 10px #909090;
+}
+body{
+    background-repeat: no-repeat;
+}
+#bodys{
+    width: 100%;
+    height: 100%;
+}
+#timudiv{
+    width: 95%;
+    height: 70px;
+    position: relative;
+}
+#timus{
+    font-size: 35px;
+    font-weight: 500;
+    display: block;
+    float: left;
+    width: 28%;
+    height: 85%;
+    background-color: orange;
+    border-radius: 9px;
+    line-height: 52px;
+    position: relative;
+    top: 15%;
+    box-shadow:2px 2px 10px #909090;
+}
+#timu{
+    color: white;
+    float: left;
+    width: 70%;
+    height: 85%;
+    background-color: blue;
+    font-weight: 300;
+    border-radius: 9px;
+    float: right;
+    line-height: 60px;
+    position: relative;
+    top: 15%;
+    box-shadow:2px 2px 10px #909090;
+}
+h4{
+    box-shadow:2px 2px 10px #909090;
+    display: inline-block;
+    background-color: #CCFFFF;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    border-radius: 7px;
+    padding: 9px;
+    font-weight: 700;
+}
+h5{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+#todays{
+    margin-top: 25px;
+    font-weight: 800;
+    font-size: 27px;
+    width: 95%;
+    text-align: left;
+}   
+#writes{
+    box-shadow:2px 2px 10px #909090;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 7px;
+    width: 95%;
+    background-color: pink;
+    margin: auto;
+    line-height: 24px;
+    font-weight: 600;
+    text-indent: 2em;
+}
+#tishidiv{
+    width: 100%;
+    height: 23%;
+    position: absolute;
+    bottom: 0px;
+}
+#tishi{
+    font-size: 34px;
+    display: inline-block;
+    width: 100%;
+    height: 20%;
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    box-shadow:2px 2px 10px #909090;
+    overflow: hidden;
+}
+#daan{
+    width: 95%;
+    height: 200px;
+    position: absolute;
+    bottom: 0px;
+    left: 2.5%;
+}
+#textview{
+    font-size: 22px;
+    width: 99.5%;
+    border-radius: 9px;
+    height: 53px;
+    background-color: whitesmoke;
+    margin-top: 23px;
+    box-shadow:2px 2px 10px #909090;
+}
+#bts{
+    width: 100%;
+    position: absolute;
+    bottom: 3%;   
+}
+#skipbutton{
+    color: white;
+    font-size: 46px;
+    width: 27%;
+    height: 29%;
+    background-color: blue;
+    border-radius: 7px;
+    position: relative;
+    bottom: 0px;
+    float: left;
+    box-shadow:2px 2px 10px #909090;
+}
+#buttonsub{
+    color: white;
+    font-size: 46px;
+    width: 70%;
+    height: 29%;
+    background-color: blue;
+    border-radius: 7px;
+    float: right;
+    box-shadow:2px 2px 10px #909090;
+}
